@@ -76,7 +76,7 @@
     <div class="social-icons">
         <ul class="list-unstyled text-center mb-0">
             <li class="list-unstyled-item">
-                <a href="https://twitter.com/HeeSeonghoon" target="_blank">
+                <a href="https://twitter.com/Chaennee_" target="_blank">
                     <i class="fab fa-twitter"></i>
                 </a>
             </li>
