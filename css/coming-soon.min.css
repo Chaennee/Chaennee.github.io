@@ -47,7 +47,7 @@ video {
     position: absolute;
     top: 0;
     left: 0;
-    height: 113vh;
+    height: 100%;
     width: 100%;
     background-color: #cd9557;
     opacity: .7;
