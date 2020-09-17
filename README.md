@@ -64,7 +64,7 @@
           </button>
         </div>
         <div class="modal-body">
-          We have received your submission. Thank you for sharing your insights for Paskuhan 2021!
+          We have received your submission. Thank you for sharing your insights for ILAND's SITE!
         </div>
         <div class="modal-footer">
           <button type="button" class="btn btn-secondary" data-dismiss="modal">Close</button>
